@@ -9,8 +9,7 @@ public class DBManager {
     //private static final String USER = "s467892";
     private static final String URL = "jdbc:postgresql://localhost:5432/lab_db";
     private static final String USER = "postgres";
-    //private static final String PASSWORD = System.getenv("DB_PASSWORD");
-    private static final String PASSWORD = "vLdOuTmfex0keFkI";
+    private static final String PASSWORD = System.getenv("DB_PASSWORD");
     private Connection connection;
 
     public DBManager() throws SQLException {
@@ -30,3 +29,4 @@ public class DBManager {
     }
 
 }
+
