@@ -1,0 +1,13 @@
+C:\Users\af063\Documents\lab7\shared\src\main\java\data\Coordinates.java
+C:\Users\af063\Documents\lab7\shared\src\main\java\data\Organization.java
+C:\Users\af063\Documents\lab7\shared\src\main\java\data\OrganizationType.java
+C:\Users\af063\Documents\lab7\shared\src\main\java\data\Product.java
+C:\Users\af063\Documents\lab7\shared\src\main\java\data\UnitOfMeasure.java
+C:\Users\af063\Documents\lab7\shared\src\main\java\exceptions\EndInputException.java
+C:\Users\af063\Documents\lab7\shared\src\main\java\exceptions\WrongNumberOfArgsException.java
+C:\Users\af063\Documents\lab7\shared\src\main\java\requests\Request.java
+C:\Users\af063\Documents\lab7\shared\src\main\java\responses\ErrorResponse.java
+C:\Users\af063\Documents\lab7\shared\src\main\java\responses\MultiResponse.java
+C:\Users\af063\Documents\lab7\shared\src\main\java\responses\Response.java
+C:\Users\af063\Documents\lab7\shared\src\main\java\responses\SuccessResponse.java
+C:\Users\af063\Documents\lab7\shared\src\main\java\utility\CommandWrapper.java

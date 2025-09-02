@@ -1,0 +1,13 @@
+data\Organization.class
+data\Product.class
+responses\MultiResponse.class
+utility\CommandWrapper.class
+responses\ErrorResponse.class
+exceptions\EndInputException.class
+data\OrganizationType.class
+exceptions\WrongNumberOfArgsException.class
+data\UnitOfMeasure.class
+responses\SuccessResponse.class
+responses\Response.class
+requests\Request.class
+data\Coordinates.class
